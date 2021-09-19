@@ -2,7 +2,7 @@
 
 A simple ToDo application built with React using only functional components and no class components. This exercise was intended to explore and learn more about Hooks in React.
 
-[This project has been deployed and can be seen at this link.])
+[This project has been deployed and can be seen at this link.] https://todolist-4502c.web.app)
 
 
 ### Some notes about functional components in React
